@@ -1,0 +1,14 @@
+Guiao 2 --> 
+4 b)
+
+i) ls -a
+ii) ls -d a*
+iii) ls -d a???*
+iv) ls -d *conf*
+
+5 b) Nao sei
+d) interpretar resultados??
+
+8) acabar exitfile
+
+9) nao percebi bem a b) e c)
